@@ -1,4 +1,7 @@
 # ByteScan CAIRO ERC20 Token
+## Author: Mo Ashouri
+## Contact: ashourics@protonmail.com
+
 
 - git clone ..
 - brew install gmp
